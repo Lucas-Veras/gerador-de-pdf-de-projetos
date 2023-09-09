@@ -1,4 +1,4 @@
-# gerador-de-pdf-de-projetos
+# Gerador de PDFs de projetos
 
 Nesse projeto você poderá tanto gerar quanto combinar PDFs
 
